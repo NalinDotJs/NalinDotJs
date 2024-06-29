@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NalinDotJs
 - 👀 I’m interested in Web Development and framewworks
 - 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me ... 
+- 📫 How to reach me {i have provided links :)}
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also make music :D
 
